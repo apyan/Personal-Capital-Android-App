@@ -1,0 +1,34 @@
+<resources>
+
+    <!-- Application Strings -->
+    <string name="app_name">Personal Capital Test</string>
+
+    <string name="app_title_00">Personal Capital Test</string>
+    <string name="app_title_01">Alvin Yan</string>
+    <string name="app_proceed">Tap to Proceed</string>
+
+    <string name="view_button_00">Exit</string>
+    <string name="view_button_01">Refresh</string>
+
+    <string name="progress_search_00">Searching</string>
+    <string name="progress_search_01">Searching...\nPlease wait.</string>
+
+    <string name="refresh_search_00">Refreshing</string>
+    <string name="refresh_search_01">Refreshing...\nPlease wait.</string>
+
+    <string name="loading_00">Loading...</string>
+    <string name="refresh_00">Refreshing...\nPlease wait.</string>
+
+    <string name="connect_00">Connection not found.\nPlease try again.</string>
+
+    <!-- For XML Tags -->
+    <string name="xml_tag_00">item</string>
+    <string name="xml_tag_01">title</string>
+    <string name="xml_tag_02">link</string>
+    <string name="xml_tag_03">pubDate</string>
+    <string name="xml_tag_04">description</string>
+    <string name="xml_tag_05">content:encoded</string>
+    <string name="xml_tag_06">media:content</string>
+    <string name="xml_tag_06a">url</string>
+
+</resources>
